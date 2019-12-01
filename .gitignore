@@ -1,0 +1,6 @@
+*.exe
+*.his
+*.mco
+*.sym
+unidecode.src
+uniencode.src
